@@ -41,7 +41,7 @@ a{color:inherit;text-decoration:none}
 .button-gold{background:var(--gold-light);color:var(--navy);margin-top:28px}
 .hero-note{display:flex;gap:10px;margin-top:55px;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#887e70}
 .hero-photo-wrap{position:relative;justify-self:end;width:min(430px,100%);aspect-ratio:1}
-.hero-photo{width:78%;height:78%;object-fit:cover;border-radius:50%;position:absolute;inset:11%;z-index:2;box-shadow:0 24px 60px rgba(25,35,56,.15)}
+.hero-photo{width:78%;height:78%;object-fit:cover;object-position:center 38%;border-radius:50%;position:absolute;inset:11%;z-index:2;background:var(--cream-2);box-shadow:0 24px 60px rgba(25,35,56,.15)}
 .gold-ring{position:absolute;inset:4%;border:1px solid var(--gold);border-radius:50%}
 .section{padding:120px 0}
 .section-light{background:var(--white)}
